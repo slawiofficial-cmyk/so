@@ -1,0 +1,11 @@
+{
+  "name": "RoboVision AI - Smart Eye & Tracking Center",
+  "description": "نظام رؤية حاسوبية ذكي وتتبع متطور للأهداف والوجوه للروبوتات مع وضع تحدي التصويب الافتراضي والتحكم الصوتي التفاعلي.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
